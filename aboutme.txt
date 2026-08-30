@@ -1,0 +1,5 @@
+Line 1: My name is ...
+Line 2: I am learning Git.
+Line 3: This is line three.
+Line 4: This is line four.
+Line 5: This is line five.
